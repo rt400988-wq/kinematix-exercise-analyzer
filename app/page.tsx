@@ -1,0 +1,1 @@
+use the full page.tsx from earlier read
