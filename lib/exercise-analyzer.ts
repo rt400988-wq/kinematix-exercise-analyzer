@@ -1,1 +1,1 @@
-full content
+// Pure exercise-analysis logic... (full code from previous)
